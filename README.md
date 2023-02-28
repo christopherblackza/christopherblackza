@@ -15,4 +15,4 @@ I'm Christopher, a 27 years old web developer from South Africa.
 
 ## Contact
 - [Brother Bear Software](https://brotherbear.co.za)
-- [TwItCh#3326](https://discord.gg/user/TwItCh#3326) on Discord
+- TwItCh#3326 on Discord
