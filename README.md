@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Christopher, a 29 years old web developer from South Africa.
+I'm Christopher, a 30 years old web developer from South Africa.
 
 - 🧭 Founder at [@BrotherBearSoftware](https://brotherbear.co.za)
 - 🌐 Portfolio: [@Portfolio](https://christopherblack.dev)
